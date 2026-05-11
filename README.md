@@ -1,3 +1,3 @@
 # linux-dotfiles
 my dotfiles
-hyprland + waybar + alacritty
+hyprland + waybar + kitty
